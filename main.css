@@ -4,6 +4,18 @@
      background-size: cover;
 }
 
+.mission{
+     background-color: beige;
+}
+
+.mission h5 {
+	font-family:'Raleway' 'sans-serif';
+	padding: 5% 10% ;
+	text-align: center;
+	position: center;
+
+}
+
 .hrv hvrbox-layertop{
      opacity: 0;
 	position: absolute;
@@ -40,6 +52,9 @@
 	transform: translate(-50%, -50%);
 }
 
+.contact_me{
+     margin: 30px;
+}
 
 footer{
      background-color: lightgrey;
